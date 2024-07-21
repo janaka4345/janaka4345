@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development 
 - 🌱 I’m currently learning 2d and 3d game development  with three.js and react three fiber
 - 💞️ I’m looking to collaborate on full stack web develoopment and game development for the web
-- 💻 My portfolio website http://www.janakakariyawasam.xyz
+- 💻 My portfolio website https://www.janakakariyawasam.xyz
 - 📫 How to reach me janakchamantha12@gmail.com
 
 <!---
