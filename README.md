@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @janaka kariyawasam
-- 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning 2d and 3d game development  with three.js and react three fiber
-- 💞️ I’m looking to collaborate on full stack web develoopment and game development for the web
-- 💻 My portfolio website https://www.janakakariyawasam.xyz
+- 👋 Hi, I’m @janakakariyawasam
+- 👀 I’m interested in building production web platforms, AI-enabled products, and Agentic AI systems
+- 🌱 I’m currently focused on LangChain, LangGraph, vector search with pgvector, and Next.js / FastAPI integration
+- 💞️ I’m looking to collaborate on full-stack web applications, RAG-oriented pipelines, and AI-driven backend services
+- 💻 My portfolio website [janakakariyawasam.orynlabs.site](https://janakakariyawasam.orynlabs.site/)
 - 📫 How to reach me janakchamantha12@gmail.com
 
 <!---
